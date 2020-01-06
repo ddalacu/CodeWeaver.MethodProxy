@@ -1,0 +1,23 @@
+{
+    "name": "Unity.CodeWeaver.MethodProxy.Editor",
+    "references": [
+        "GUID:6612e6d7fbd49584c986d6ef3a30b326",
+        "GUID:def47feef11f912478a2c35b9e25eefd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
